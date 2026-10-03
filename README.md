@@ -1,75 +1,90 @@
-<div align="center">
-
-# Hola, soy Andrés Briñez 👋
-
-### Técnico en seguridad electrónica · Desarrollador web y de aplicaciones
-
-📍 Bogotá, Colombia · Fundador de **Nexo Tech IA**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=CCTV+%C2%B7+Control+de+acceso+%C2%B7+Intrusi%C3%B3n;Apps+web+y+m%C3%B3viles+a+la+medida;Software+para+empresas+de+vigilancia" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🧑‍💻 Sobre mí
-
-Trabajo en campo como **técnico de seguridad electrónica** (CCTV, control de acceso y sistemas de intrusión) y desarrollo **software a la medida** para resolver los problemas que veo en el día a día de ese sector.
-
-- 🔐 Conozco la operación de una empresa de vigilancia desde adentro, por eso construyo herramientas que la gente sí usa.
-- 🛠️ Actualmente trabajo en **Nexo Vigía**, un sistema de rondas, turnos y minuta digital para empresas de vigilancia.
-- 🌱 Aprendiendo más de backend, bases de datos y apps móviles.
-- 🤝 Abierto a proyectos de páginas web, sistemas internos y apps para negocios.
-
----
-
-## 🧰 Tecnologías
+<!-- ===================== DISEÑO 1: CYBER SEGURIDAD ===================== -->
+<!-- Al subirlo a GitHub, el archivo se debe llamar README.md -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,html,css,js,react,git,github,vscode&perline=10" alt="Tecnologías" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a3d62,100:00e5ff&height=220&section=header&text=Andr%C3%A9s%20Bri%C3%B1ez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Seguridad%20Electr%C3%B3nica%20%2B%20Desarrollo%20de%20Software&descSize=18&descAlignY=56&descAlign=50" width="100%" alt="Banner" />
 </p>
-
-| Área | Herramientas |
-|------|--------------|
-| **Backend** | Python, Flask, PostgreSQL |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Móvil** | React Native, Expo |
-| **Seguridad electrónica** | CCTV, control de acceso, sistemas de intrusión |
-
----
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| 📦 [**Almacén**](https://github.com/ModernDroiid/almacen) | Sistema de inventario para almacén multisede: entradas, salidas y control de existencias. | Python · Flask · PostgreSQL |
-| 🌐 [**Nexo Tech**](https://github.com/ModernDroiid/nexo-tech-ia) | Sitio web de Nexo Tech, empresa de seguridad electrónica y desarrollo de software. | HTML · CSS · JS |
-| 🏋️ [**Sculptor Gym**](https://github.com/ModernDroiid/sculptor-gym) | Landing page para un gimnasio, responsive. | HTML · CSS · JS |
-| 💌 [**Invitación digital**](https://github.com/ModernDroiid/Invitacion) | Invitación web interactiva para eventos. | HTML · CSS · JS |
-| 🛡️ **Nexo Vigía** *(en desarrollo)* | Plataforma multiempresa para vigilancia: rondas, turnos, minuta digital y panel web de supervisión. | Web + móvil |
-
----
-
-## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ModernDroiid&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModernDroiid&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <a href="https://github.com/ModernDroiid">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=%3E+Instalando+CCTV+y+control+de+acceso...;%3E+Programando+apps+web+y+m%C3%B3viles...;%3E+Construyendo+Nexo+Vig%C3%ADa+%F0%9F%9B%A1%EF%B8%8F;%3E+Fundador+de+Nexo+Tech" alt="Typing" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Bogotá-Colombia-00e5ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🏢_Nexo_Tech-Fundador-00e5ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=ModernDroiid&style=flat-square&color=00e5ff&label=Visitas" />
 </p>
 
 ---
 
-## 📫 Contacto
+### `$ whoami`
 
-<!-- Cambia los enlaces de abajo por los tuyos. Si no quieres alguno, borra esa línea. -->
-<p align="left">
-  <a href="mailto:andres.brinez2002@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-  <a href="https://wa.me/5731255795267"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+```yaml
+nombre:      Andrés Ferney Briñez Suárez
+rol:         Técnico en seguridad electrónica & Desarrollador
+ubicación:   Bogotá, Colombia 🇨🇴
+empresa:     Nexo Tech
+campo:       [ CCTV, Control de acceso, Sistemas de intrusión ]
+código:      [ Python, Flask, PostgreSQL, JavaScript, React Native ]
+proyecto:    "Nexo Vigía — rondas, turnos y minuta digital para vigilancia"
+filosofía:   "Conozco la operación desde adentro; construyo lo que la gente sí usa."
+```
+
+---
+
+### 🛠️ `$ stack --list`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,js,html,css,react,git,github,vscode,windows&theme=dark&perline=11" />
 </p>
 
-<div align="center">
+---
 
-⭐ *Si algún proyecto te sirve, déjale una estrella.*
+### 🚀 `$ ls ./proyectos`
 
-</div>
+<p align="center">
+  <a href="https://github.com/ModernDroiid/almacen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=almacen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
+  </a>
+  <a href="https://github.com/ModernDroiid/nexo-tech-ia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=nexo-tech-ia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
+  </a>
+  <a href="https://github.com/ModernDroiid/sculptor-gym">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=sculptor-gym&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
+  </a>
+  <a href="https://github.com/ModernDroiid/Invitacion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=Invitacion&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
+  </a>
+</p>
+
+> 🛡️ **Nexo Vigía** *(en desarrollo)* — Plataforma multiempresa para vigilancia: rondas, turnos, minuta digital y panel web de supervisión.
+
+---
+
+### 📊 `$ git log --stats`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ModernDroiid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&locale=es" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ModernDroiid&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&locale=es" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ModernDroiid&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="95%" />
+</p>
+
+---
+
+### 📡 `$ contacto --open`
+
+<!-- Cambia los enlaces por los tuyos o borra los que no uses -->
+<p align="center">
+  <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Correo-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff" /></a>
+  <a href="https://wa.me/57TUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00e5ff" /></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a3d62,100:000000&height=120&section=footer" width="100%" />
+</p>
