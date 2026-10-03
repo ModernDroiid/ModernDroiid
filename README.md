@@ -1,90 +1,116 @@
-<!-- ===================== DISEÑO 1: CYBER SEGURIDAD ===================== -->
+<!-- ===================== DISEÑO 2: CORPORATIVO NEXO TECH ===================== -->
 <!-- Al subirlo a GitHub, el archivo se debe llamar README.md -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a3d62,100:00e5ff&height=220&section=header&text=Andr%C3%A9s%20Bri%C3%B1ez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Seguridad%20Electr%C3%B3nica%20%2B%20Desarrollo%20de%20Software&descSize=18&descAlignY=56&descAlign=50" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e3c72,100:2a5298&height=230&section=header&text=Andr%C3%A9s%20Bri%C3%B1ez&fontSize=58&fontColor=ffffff&stroke=ffffff&strokeWidth=0&animation=twinkling&desc=Fundador%20de%20Nexo%20Tech&descSize=20&descAlignY=72&fontAlignY=42" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ModernDroiid">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=600&lines=%3E+Instalando+CCTV+y+control+de+acceso...;%3E+Programando+apps+web+y+m%C3%B3viles...;%3E+Construyendo+Nexo+Vig%C3%ADa+%F0%9F%9B%A1%EF%B8%8F;%3E+Fundador+de+Nexo+Tech" alt="Typing" />
-  </a>
-</p>
+<h3 align="center">Soluciones de seguridad electrónica y software a la medida 🇨🇴</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Bogotá-Colombia-00e5ff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🏢_Nexo_Tech-Fundador-00e5ff?style=flat-square&labelColor=0d1117" />
-  <img src="https://komarev.com/ghpvc/?username=ModernDroiid&style=flat-square&color=00e5ff&label=Visitas" />
+  <img src="https://img.shields.io/badge/CCTV-1e3c72?style=for-the-badge&logo=googlehome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Control_de_acceso-1e3c72?style=for-the-badge&logo=keycdn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intrusión-1e3c72?style=for-the-badge&logo=adguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software-2a5298?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Páginas_web-2a5298?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
 ---
 
-### `$ whoami`
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```yaml
-nombre:      Andrés Ferney Briñez Suárez
-rol:         Técnico en seguridad electrónica & Desarrollador
-ubicación:   Bogotá, Colombia 🇨🇴
-empresa:     Nexo Tech
-campo:       [ CCTV, Control de acceso, Sistemas de intrusión ]
-código:      [ Python, Flask, PostgreSQL, JavaScript, React Native ]
-proyecto:    "Nexo Vigía — rondas, turnos y minuta digital para vigilancia"
-filosofía:   "Conozco la operación desde adentro; construyo lo que la gente sí usa."
+## 👨‍💼 Sobre mí
+
+Soy **técnico en seguridad electrónica** en Bogotá y **desarrollador de software**. Esa combinación me permite entender los problemas reales de las empresas de seguridad y convertirlos en herramientas digitales que funcionan en campo.
+
+**Lo que hago:**
+- 🎥 Instalación y soporte de **CCTV**
+- 🔑 **Control de acceso** y sistemas de **intrusión**
+- 💻 **Sistemas internos** para empresas (inventarios, operación)
+- 📱 **Apps móviles** y **páginas web** para negocios
+
+</td>
+<td width="45%" valign="top">
+
+## 🎯 En qué estoy
+
+```text
+┌─────────────────────────────┐
+│  🛡️  NEXO VIGÍA             │
+│  ─────────────────────────  │
+│  ✔ Rondas con control       │
+│  ✔ Entrada/salida de turno  │
+│  ✔ Minuta digital           │
+│  ✔ Panel de supervisión     │
+│  ✔ Multiempresa             │
+│                             │
+│  Estado: 🔨 en desarrollo   │
+└─────────────────────────────┘
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
-### 🛠️ `$ stack --list`
+## 💼 Portafolio
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/ModernDroiid/almacen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=almacen&theme=default&hide_border=false&border_color=2a5298&title_color=1e3c72&icon_color=2a5298" /></a>
+<br/><sub><b>Inventario multisede</b> · Python · Flask · PostgreSQL</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/ModernDroiid/nexo-tech-ia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=nexo-tech-ia&theme=default&hide_border=false&border_color=2a5298&title_color=1e3c72&icon_color=2a5298" /></a>
+<br/><sub><b>Sitio web corporativo</b> · HTML · CSS · JS</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/ModernDroiid/sculptor-gym"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=sculptor-gym&theme=default&hide_border=false&border_color=2a5298&title_color=1e3c72&icon_color=2a5298" /></a>
+<br/><sub><b>Landing page para gimnasio</b> · HTML · CSS · JS</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/ModernDroiid/Invitacion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=Invitacion&theme=default&hide_border=false&border_color=2a5298&title_color=1e3c72&icon_color=2a5298" /></a>
+<br/><sub><b>Invitación digital</b> · HTML · CSS · JS</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,js,html,css,react,git,github,vscode,windows&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,js,html,css,react,git,github,vscode&theme=light&perline=10" />
 </p>
 
 ---
 
-### 🚀 `$ ls ./proyectos`
+## 📈 Actividad
 
 <p align="center">
-  <a href="https://github.com/ModernDroiid/almacen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=almacen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
-  </a>
-  <a href="https://github.com/ModernDroiid/nexo-tech-ia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=nexo-tech-ia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
-  </a>
-  <a href="https://github.com/ModernDroiid/sculptor-gym">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=sculptor-gym&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
-  </a>
-  <a href="https://github.com/ModernDroiid/Invitacion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModernDroiid&repo=Invitacion&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
-  </a>
-</p>
-
-> 🛡️ **Nexo Vigía** *(en desarrollo)* — Plataforma multiempresa para vigilancia: rondas, turnos, minuta digital y panel web de supervisión.
-
----
-
-### 📊 `$ git log --stats`
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ModernDroiid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&locale=es" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ModernDroiid&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&locale=es" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ModernDroiid&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ModernDroiid&show_icons=true&theme=default&border_color=2a5298&title_color=1e3c72&icon_color=2a5298&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModernDroiid&layout=compact&theme=default&border_color=2a5298&title_color=1e3c72&locale=es" />
 </p>
 
 ---
 
-### 📡 `$ contacto --open`
+## 🤝 ¿Trabajamos juntos?
+
+¿Necesitas cámaras, control de acceso, una página web o un sistema para tu empresa? Escríbeme.
 
 <!-- Cambia los enlaces por los tuyos o borra los que no uses -->
 <p align="center">
-  <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Correo-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff" /></a>
-  <a href="https://wa.me/57TUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00e5ff" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>
+  <a href="https://wa.me/57TUNUMERO"><img src="https://img.shields.io/badge/Cotizar_por_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Correo-1e3c72?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a3d62,100:000000&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=60&section=footer&text=Nexo%20Tech%20%C2%B7%20Bogot%C3%A1&fontSize=20&fontColor=ffffff" width="100%" />
 </p>
