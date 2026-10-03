@@ -4,7 +4,7 @@
 
 ### Técnico en seguridad electrónica · Desarrollador web y de aplicaciones
 
-📍 Bogotá, Colombia · Fundador de **Nexo Tech**
+📍 Bogotá, Colombia · Fundador de **Nexo Tech IA**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=CCTV+%C2%B7+Control+de+acceso+%C2%B7+Intrusi%C3%B3n;Apps+web+y+m%C3%B3viles+a+la+medida;Software+para+empresas+de+vigilancia" alt="Typing SVG" />
 
@@ -63,8 +63,8 @@ Trabajo en campo como **técnico de seguridad electrónica** (CCTV, control de a
 
 <!-- Cambia los enlaces de abajo por los tuyos. Si no quieres alguno, borra esa línea. -->
 <p align="left">
-  <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-  <a href="https://wa.me/57TUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:andres.brinez2002@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <a href="https://wa.me/5731255795267"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
